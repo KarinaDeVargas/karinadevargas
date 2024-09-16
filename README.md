@@ -2,7 +2,7 @@
 
 # ✨ Welcome to my Git ✨
 
-### 💬 Feel free to contact me! 💬
+<!-- ### 💬 Feel free to contact me! 💬-->
 
 <!--
 **KarinaDeVargas/karinadevargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
